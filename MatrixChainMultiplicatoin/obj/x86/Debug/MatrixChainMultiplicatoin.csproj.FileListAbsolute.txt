@@ -1,0 +1,5 @@
+/Users/manasakalyanvardhireddy/Projects/Problems/MatrixChainMultiplicatoin/bin/Debug/MatrixChainMultiplicatoin.exe
+/Users/manasakalyanvardhireddy/Projects/Problems/MatrixChainMultiplicatoin/bin/Debug/MatrixChainMultiplicatoin.pdb
+/Users/manasakalyanvardhireddy/Projects/Problems/MatrixChainMultiplicatoin/obj/x86/Debug/MatrixChainMultiplicatoin.csproj.CoreCompileInputs.cache
+/Users/manasakalyanvardhireddy/Projects/Problems/MatrixChainMultiplicatoin/obj/x86/Debug/MatrixChainMultiplicatoin.exe
+/Users/manasakalyanvardhireddy/Projects/Problems/MatrixChainMultiplicatoin/obj/x86/Debug/MatrixChainMultiplicatoin.pdb

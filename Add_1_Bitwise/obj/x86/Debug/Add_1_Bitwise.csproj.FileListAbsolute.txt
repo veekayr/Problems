@@ -1,0 +1,5 @@
+/Users/manasakalyanvardhireddy/Projects/Problems/Add_1_Bitwise/bin/Debug/Add_1_Bitwise.exe
+/Users/manasakalyanvardhireddy/Projects/Problems/Add_1_Bitwise/bin/Debug/Add_1_Bitwise.pdb
+/Users/manasakalyanvardhireddy/Projects/Problems/Add_1_Bitwise/obj/x86/Debug/Add_1_Bitwise.csproj.CoreCompileInputs.cache
+/Users/manasakalyanvardhireddy/Projects/Problems/Add_1_Bitwise/obj/x86/Debug/Add_1_Bitwise.exe
+/Users/manasakalyanvardhireddy/Projects/Problems/Add_1_Bitwise/obj/x86/Debug/Add_1_Bitwise.pdb

@@ -1,0 +1,5 @@
+/Users/manasakalyanvardhireddy/Projects/Problems/NaivePatternSearching/bin/Debug/NaivePatternSearching.exe
+/Users/manasakalyanvardhireddy/Projects/Problems/NaivePatternSearching/bin/Debug/NaivePatternSearching.pdb
+/Users/manasakalyanvardhireddy/Projects/Problems/NaivePatternSearching/obj/x86/Debug/NaivePatternSearching.csproj.CoreCompileInputs.cache
+/Users/manasakalyanvardhireddy/Projects/Problems/NaivePatternSearching/obj/x86/Debug/NaivePatternSearching.exe
+/Users/manasakalyanvardhireddy/Projects/Problems/NaivePatternSearching/obj/x86/Debug/NaivePatternSearching.pdb

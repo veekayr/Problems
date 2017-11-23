@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{49C05035-1C6D-4798-A632-8ED7044B9A93}|Default">
+  <MonoDevelop.Ide.ItemProperties.MinimumJumpstoReachEnd PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MinimumJumpstoReachEnd/Program.cs">
+    <Files>
+      <File FileName="NaivePatternSearching/Program.cs" Line="28" Column="29" />
+      <File FileName="MinimumJumpstoReachEnd/Program.cs" Line="28" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PatternSearching PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/manasakalyanvardhireddy/Projects/Problems/InterleavedStrings/Program.cs" relfile="InterleavedStrings/Program.cs" line="9" column="1" />
+      <Breakpoint file="/Users/manasakalyanvardhireddy/Projects/Problems/Add_1_Bitwise/Program.cs" relfile="Add_1_Bitwise/Program.cs" line="9" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SubsetSum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CoinChanging PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Add__1__Bitwise PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.EggDropping PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.KnapsackProblem PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MatrixChainMultiplicatoin PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.LongestCommonSubsequence PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LongestIncreasingSubsequence PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MinimumDistance PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CuttingRod PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Problems PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.InterleavedStrings PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,5 @@
+/Users/manasakalyanvardhireddy/Projects/Problems/MinimumDistance/bin/Debug/MinimumDistance.exe
+/Users/manasakalyanvardhireddy/Projects/Problems/MinimumDistance/bin/Debug/MinimumDistance.pdb
+/Users/manasakalyanvardhireddy/Projects/Problems/MinimumDistance/obj/x86/Debug/MinimumDistance.csproj.CoreCompileInputs.cache
+/Users/manasakalyanvardhireddy/Projects/Problems/MinimumDistance/obj/x86/Debug/MinimumDistance.exe
+/Users/manasakalyanvardhireddy/Projects/Problems/MinimumDistance/obj/x86/Debug/MinimumDistance.pdb
