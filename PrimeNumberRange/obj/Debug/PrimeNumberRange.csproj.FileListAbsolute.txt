@@ -1,0 +1,6 @@
+C:\Users\v-redv\Documents\GitHub\Problems\PrimeNumberRange\bin\Debug\PrimeNumberRange.exe.config
+C:\Users\v-redv\Documents\GitHub\Problems\PrimeNumberRange\bin\Debug\PrimeNumberRange.exe
+C:\Users\v-redv\Documents\GitHub\Problems\PrimeNumberRange\bin\Debug\PrimeNumberRange.pdb
+C:\Users\v-redv\Documents\GitHub\Problems\PrimeNumberRange\obj\Debug\PrimeNumberRange.csprojResolveAssemblyReference.cache
+C:\Users\v-redv\Documents\GitHub\Problems\PrimeNumberRange\obj\Debug\PrimeNumberRange.exe
+C:\Users\v-redv\Documents\GitHub\Problems\PrimeNumberRange\obj\Debug\PrimeNumberRange.pdb
