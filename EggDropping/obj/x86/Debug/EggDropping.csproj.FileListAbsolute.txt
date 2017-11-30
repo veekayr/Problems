@@ -1,5 +1,0 @@
-/Users/manasakalyanvardhireddy/Projects/Problems/EggDropping/bin/Debug/EggDropping.exe
-/Users/manasakalyanvardhireddy/Projects/Problems/EggDropping/bin/Debug/EggDropping.pdb
-/Users/manasakalyanvardhireddy/Projects/Problems/EggDropping/obj/x86/Debug/EggDropping.csproj.CoreCompileInputs.cache
-/Users/manasakalyanvardhireddy/Projects/Problems/EggDropping/obj/x86/Debug/EggDropping.exe
-/Users/manasakalyanvardhireddy/Projects/Problems/EggDropping/obj/x86/Debug/EggDropping.pdb

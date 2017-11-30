@@ -1,5 +1,0 @@
-/Users/manasakalyanvardhireddy/Projects/Problems/KnapsackProblem/bin/Debug/KnapsackProblem.exe
-/Users/manasakalyanvardhireddy/Projects/Problems/KnapsackProblem/bin/Debug/KnapsackProblem.pdb
-/Users/manasakalyanvardhireddy/Projects/Problems/KnapsackProblem/obj/x86/Debug/KnapsackProblem.csproj.CoreCompileInputs.cache
-/Users/manasakalyanvardhireddy/Projects/Problems/KnapsackProblem/obj/x86/Debug/KnapsackProblem.exe
-/Users/manasakalyanvardhireddy/Projects/Problems/KnapsackProblem/obj/x86/Debug/KnapsackProblem.pdb

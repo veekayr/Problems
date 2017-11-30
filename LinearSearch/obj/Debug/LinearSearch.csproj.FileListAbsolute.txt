@@ -1,6 +1,0 @@
-C:\Users\v-redv\Documents\GitHub\Problems\LinearSearch\bin\Debug\LinearSearch.exe.config
-C:\Users\v-redv\Documents\GitHub\Problems\LinearSearch\bin\Debug\LinearSearch.exe
-C:\Users\v-redv\Documents\GitHub\Problems\LinearSearch\bin\Debug\LinearSearch.pdb
-C:\Users\v-redv\Documents\GitHub\Problems\LinearSearch\obj\Debug\LinearSearch.csprojResolveAssemblyReference.cache
-C:\Users\v-redv\Documents\GitHub\Problems\LinearSearch\obj\Debug\LinearSearch.exe
-C:\Users\v-redv\Documents\GitHub\Problems\LinearSearch\obj\Debug\LinearSearch.pdb

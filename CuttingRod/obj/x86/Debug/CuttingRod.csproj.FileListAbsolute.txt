@@ -1,5 +1,0 @@
-/Users/manasakalyanvardhireddy/Projects/Problems/CuttingRod/bin/Debug/CuttingRod.exe
-/Users/manasakalyanvardhireddy/Projects/Problems/CuttingRod/bin/Debug/CuttingRod.pdb
-/Users/manasakalyanvardhireddy/Projects/Problems/CuttingRod/obj/x86/Debug/CuttingRod.csproj.CoreCompileInputs.cache
-/Users/manasakalyanvardhireddy/Projects/Problems/CuttingRod/obj/x86/Debug/CuttingRod.exe
-/Users/manasakalyanvardhireddy/Projects/Problems/CuttingRod/obj/x86/Debug/CuttingRod.pdb

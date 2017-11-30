@@ -1,5 +1,0 @@
-/Users/manasakalyanvardhireddy/Projects/Problems/CoinChanging/bin/Debug/CoinChanging.exe
-/Users/manasakalyanvardhireddy/Projects/Problems/CoinChanging/bin/Debug/CoinChanging.pdb
-/Users/manasakalyanvardhireddy/Projects/Problems/CoinChanging/obj/x86/Debug/CoinChanging.csproj.CoreCompileInputs.cache
-/Users/manasakalyanvardhireddy/Projects/Problems/CoinChanging/obj/x86/Debug/CoinChanging.exe
-/Users/manasakalyanvardhireddy/Projects/Problems/CoinChanging/obj/x86/Debug/CoinChanging.pdb

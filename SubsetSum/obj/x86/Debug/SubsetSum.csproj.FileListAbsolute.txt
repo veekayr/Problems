@@ -1,5 +1,0 @@
-/Users/manasakalyanvardhireddy/Projects/Problems/SubsetSum/obj/x86/Debug/SubsetSum.csproj.CoreCompileInputs.cache
-/Users/manasakalyanvardhireddy/Projects/Problems/SubsetSum/bin/Debug/SubsetSum.exe
-/Users/manasakalyanvardhireddy/Projects/Problems/SubsetSum/bin/Debug/SubsetSum.pdb
-/Users/manasakalyanvardhireddy/Projects/Problems/SubsetSum/obj/x86/Debug/SubsetSum.exe
-/Users/manasakalyanvardhireddy/Projects/Problems/SubsetSum/obj/x86/Debug/SubsetSum.pdb
