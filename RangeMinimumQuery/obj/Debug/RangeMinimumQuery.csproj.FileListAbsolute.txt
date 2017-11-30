@@ -1,0 +1,6 @@
+C:\Users\v-redv\Documents\GitHub\Problems\RangeMinimumQuery\bin\Debug\RangeMinimumQuery.exe.config
+C:\Users\v-redv\Documents\GitHub\Problems\RangeMinimumQuery\bin\Debug\RangeMinimumQuery.exe
+C:\Users\v-redv\Documents\GitHub\Problems\RangeMinimumQuery\bin\Debug\RangeMinimumQuery.pdb
+C:\Users\v-redv\Documents\GitHub\Problems\RangeMinimumQuery\obj\Debug\RangeMinimumQuery.csprojResolveAssemblyReference.cache
+C:\Users\v-redv\Documents\GitHub\Problems\RangeMinimumQuery\obj\Debug\RangeMinimumQuery.exe
+C:\Users\v-redv\Documents\GitHub\Problems\RangeMinimumQuery\obj\Debug\RangeMinimumQuery.pdb
