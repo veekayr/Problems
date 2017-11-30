@@ -32,6 +32,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumJumpstoReachEnd", "M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumberRange", "PrimeNumberRange\PrimeNumberRange.csproj", "{629753A3-4EC0-4598-8E87-A60DC21B85A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RangeMinimumQuery", "RangeMinimumQuery\RangeMinimumQuery.csproj", "{B77E7952-9318-4173-8948-5B6D89B9FD8E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -132,6 +134,14 @@ Global
 		{629753A3-4EC0-4598-8E87-A60DC21B85A4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{629753A3-4EC0-4598-8E87-A60DC21B85A4}.Release|x86.ActiveCfg = Release|Any CPU
 		{629753A3-4EC0-4598-8E87-A60DC21B85A4}.Release|x86.Build.0 = Release|Any CPU
+		{B77E7952-9318-4173-8948-5B6D89B9FD8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B77E7952-9318-4173-8948-5B6D89B9FD8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B77E7952-9318-4173-8948-5B6D89B9FD8E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B77E7952-9318-4173-8948-5B6D89B9FD8E}.Debug|x86.Build.0 = Debug|Any CPU
+		{B77E7952-9318-4173-8948-5B6D89B9FD8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B77E7952-9318-4173-8948-5B6D89B9FD8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B77E7952-9318-4173-8948-5B6D89B9FD8E}.Release|x86.ActiveCfg = Release|Any CPU
+		{B77E7952-9318-4173-8948-5B6D89B9FD8E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
